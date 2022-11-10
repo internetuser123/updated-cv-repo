@@ -8,73 +8,50 @@
 
     },
     "education": [
-        {
-            "schoolone": {
-                "name": "Geijerskolan",
-                "type": "Folkhögskola",
-                "description": "Jazz music, drumming",
-                "start": 2013,
-                "end": 2014
+        
+            {
+                "heading": "2013-2014 - Geijerskolan",
+                "description": "Folkhögskola, inriktning jazz, trumset"
 
             },
-            "schooltwo": {
-                "name": "Lunnevads Folkhögskola",
-                "type": "Folkhögskola",
-                "description": "Jazz music, drumming",
-                "start": 2014,
-                "end": 2016
+            {
+                "heading": "2014-2016 - Lunnevads folkhögskola",
+                "description": "Folkhögskola, inriktning jazz, trumset"
 
             },
-            "schoolthree": {
-                "name": "Skurups Folkhögskola",
-                "type": "Folkhögskola",
-                "description": "Jazz music, drumming",
-                "start": 2017,
-                "end": 2018
+            {
+                "heading": "2017-2018 - Skurups folkhögskola",
+                "description": "Folkhögskola, inriktning jazz, trumset"
 
             },
-            "schoolfour": {
-                "name": "Kungliga Musikhögskolan",
-                "type": "Universitet",
-                "description": "Jazz music, drumming",
-                "start": 2018,
-                "end": 2021
+            {
+                "heading": "2018-2021 - Kungliga Musikhögskolan",
+                "description": "Kandidatprogram, jazzmusiker inriktning trumset"
 
             },
-            "schoolfive": {
-                "name": "Chas Academy",
-                "type": "Yrkeshögskola",
-                "description": "Web och Systemutveckling",
-                "start": 2022
+            {
+                "heading": "2022-, Chas Academy",
+                "description": "Yrkeshögskola, Fullstack JavaScript-utvecklare"
             }
-    }
+    
 ],
-    "work": [
-    {
-        "workone": {
-            "company": "Coop",
-            "position": "Säljare",
-            "description": "Anställd som kassapersonal, ofta kvällspass",
-            "start": 2016,
-            "end": 2017
+    "employment": [
+    
+        {
+            "heading": "2011-2016 - Ydre Kommun",
+            "description": "Sommarjobb som vaktmästare inom Ydre Kommun"
         },
-        "worktwo": { 
-            "company": "Coop",
-            "position": "Säljare",
-            "description": "Främst jobbat som kvällspersonal i en mellanstorbutik på södermalm, i arbetsuppgifterna ingick kassatimmar, kundbemötande, frontning m.m. Jobbade stundtals som jour vilket innebar ansvar för stängning av butiken, samt delegera arbetsuppgifter osv.",
-            "start": 2019,
-            "end": 2022
+        { 
+            "heading": "2016-2017 - Coop Österbymo",
+            "description": "Anställd som kassapersonal, ofta kvällspass"
         },
-        "workthree": {
-            "company": "Ydre Kommun",
-            "position": "Vaktmästare",
-            "description": "Sommarjobb inom Ydre kommun",
-            "start": 2011,
-            "end": 2017
+        {
+            "heading": "2019-2022 - Coop Östgötagatan",
+            "description": "Anställd som kvällspersonal, kundbemötande, kassatimmar, varuplock och frontning vanligt förekommande arbetsuppgifter. Har ibland tagit kvällsjouren vilket innebär ansvar för att stänga butiken, fördelning av arbetsuppgifter till personalen osv."
 
         }
          
-    }
+    
 ],
     "skills": {
         "language": "Svenska och engelska, flytande",
