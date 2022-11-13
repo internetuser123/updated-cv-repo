@@ -101,8 +101,6 @@ p > a {
 }
 
 .p-main {
-    display: flex;
-    flex-direction: column;
     width: 100%;
 }
 
@@ -111,6 +109,17 @@ p > a {
     width: 100vw;
     height: 100vh;
 }
+
+.screenshot1 {
+    width: 300px;
+    height: auto;
+}
+
+.screenshot2 {
+    width: 300px;
+    height: auto;
+}
+
 .e-main {
     display: flex;
     flex-direction: row;
@@ -317,9 +326,6 @@ footer {
         /* font-size: 18px; */
         font-weight: bold;
     }
-
-    /* MODAL */
-
 
 .modal-content {
     background-color: #fefefe;
